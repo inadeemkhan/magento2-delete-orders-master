@@ -25,7 +25,7 @@ If you encounter any problems or bugs, please <a href="https://github.com/magepr
 
 <b>Sales Order Grid</b>
 
-<img src="https://i.ibb.co/LNSV3BJ/screenshot-18-117-84-70-2021-09-11-11-39-52.png" alt="screenshot-18-117-84-70-2021-09-11-11-39-52" border="0">
+<img src="https://i.ibb.co/r3CpPhg/magento-2-delete-orders.png" alt="magento-2-delete-orders" border="0">
 
 ## Prerequisites
 
